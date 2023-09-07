@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Video Analytics](https://github.com/SamiUddin-tech/Video-Analysis)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/SamiUddin-tech](https://github.com/SamiUddin-tech)
+- 👨‍💻 All of my projects are available ![here](https://github.com/SamiUddin-tech](https://github.com/SamiUddin-tech)
 
 - 💬 Ask me about **3D Perception**
 
