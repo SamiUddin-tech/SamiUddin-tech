@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **muhammadsamiuddinrafayf18@nutech.edu.pk**
 
+![logo](https://github.com/SamiUddin-tech/SamiUddin-tech/blob/main/Untitled%20design-3.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sami-uddin-a6b40b20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sami-uddin-a6b40b20a" height="30" width="40" /></a>
