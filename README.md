@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [3D Perception](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)
 
-- 🌱 I’m currently learning **RGBD Solutions: Sensor Fusion by Merging Depth Data from Time of Flight Camera and High Speed RGB Camera**
+- 🌱 I’m currently learning **Cutting Edge Skills**
 
 - 👯 I’m looking to collaborate on [Video Analytics](https://github.com/SamiUddin-tech/Video-Analysis)
 
