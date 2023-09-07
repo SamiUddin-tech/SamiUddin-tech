@@ -19,6 +19,9 @@ I am passionate about Computer Vision. I love to work on real sensors (Stereo, T
 
 ![logo](https://github.com/SamiUddin-tech/SamiUddin-tech/blob/main/Untitled%20design-3.png)
 
+What excite me the most when it comes to Computer Vision?
+![2023-gartner-emerging-technologies-and-trends-impa](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/e71555db-4525-495c-b40b-aaff2b2ba1f4)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sami-uddin-a6b40b20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sami-uddin-a6b40b20a" height="30" width="40" /></a>
