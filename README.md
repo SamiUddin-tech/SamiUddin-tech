@@ -9,13 +9,15 @@
 
 - 🌱 I’m currently learning **[Cutting Edge Skills](https://www.thinkautonomous.ai/)**
 
-- 👯 I’m looking to collaborate on [Video Analytics](https://github.com/SamiUddin-tech/Video-Analysis)
+- 👯 I’m looking to collaborate on [Video Analysis](https://github.com/SamiUddin-tech/Video-Analysis)
 
-- 👨‍💻 All of my projects are available ![here](https://github.com/SamiUddin-tech](https://github.com/SamiUddin-tech)
+- 👨‍💻 All of my projects are available ![here](https://github.com/SamiUddin-tech)
 
 - 💬 Ask me about **3D Perception**
 
 - 📫 How to reach me **muhammadsamiuddinrafayf18@nutech.edu.pk**
+
+<h3 align="center">Tech Stack</h3>
 
 ![logo](https://github.com/SamiUddin-tech/SamiUddin-tech/blob/main/Untitled%20design-3.png)
 
