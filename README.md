@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiuddin-tech" alt="samiuddin-tech" /></a> </p>
 
-- 🔭 I’m currently working on [3D Perception](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)
+- 🔭 I’m currently working on **[3D Perception](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
 
 - 🌱 I’m currently learning **[Cutting Edge Skills](https://www.thinkautonomous.ai/)**
 
-- 👯 I’m looking to collaborate on [Video Analysis](https://github.com/SamiUddin-tech/Video-Analysis)
+- 👯 I’m looking to collaborate on **[Video Analysis](https://github.com/SamiUddin-tech/Video-Analysis)**
 
-- 👨‍💻 All of my projects are available ![here](https://github.com/SamiUddin-tech)
+- 👨‍💻 All of my projects are available **![here](https://github.com/SamiUddin-tech)**
 
 - 💬 Ask me about **3D Perception**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sami-uddin-a6b40b20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sami-uddin-a6b40b20a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sami-uddin-a6b40b20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sami-uddin-a6b40b20a" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCRotd0klFJPhVRxsmH2rdwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sami uddin" height="30" width="40" /></a>
 </p>
 
