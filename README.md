@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [3D Perception](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)
 
-- 🌱 I’m currently learning **Cutting Edge Skills**
+- 🌱 I’m currently learning **[Cutting Edge Skills](https://www.thinkautonomous.ai/)**
 
 - 👯 I’m looking to collaborate on [Video Analytics](https://github.com/SamiUddin-tech/Video-Analysis)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/SamiUddin-tech](https://github.com/SamiUddin-tech)
 
-- 💬 Ask me about **Computer Vision and 3D Perception**
+- 💬 Ask me about **3D Perception**
 
 - 📫 How to reach me **muhammadsamiuddinrafayf18@nutech.edu.pk**
 
