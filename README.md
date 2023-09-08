@@ -28,7 +28,7 @@ I am passionate about Computer Vision. I love to work on real sensors (Stereo, T
 <p align="left">
 <a href="https://www.linkedin.com/in/sami-uddin-a6b40b20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sami-uddin-a6b40b20a" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCRotd0klFJPhVRxsmH2rdwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sami uddin" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/channel/UCRotd0klFJPhVRxsmH2rdwg](https://www.upwork.com/freelancers/~01f5ef90bcd6545eb3)" target="blank"><img align="center" src="![upwork-svgrepo-com](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/aa77a251-aee6-4fc1-84e8-b601bfcbb928)
+<a href="https://www.upwork.com/freelancers/~01f5ef90bcd6545eb3" target="blank"><img align="center" src="![upwork-svgrepo-com](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/aa77a251-aee6-4fc1-84e8-b601bfcbb928)
 " alt="sami uddin" height="30" width="40" /></a>
 </p>
 
