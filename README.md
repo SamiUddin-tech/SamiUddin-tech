@@ -1,7 +1,7 @@
 <b><h1 align="center">Hi 👋, I'm Sami Uddin</h1></b>
 <h2 align="center">Computer Vision Engineer</h2>
 
-<h3>I am passionate about Computer Vision. I love to work on real sensors (Stereo, ToF, LiDAR Point Cloud) which makes me unique when it comes to real world application of Computer Vision. I practice deep Learning respectfully, but I don't compromise with basic concepts of Computer Vision, specially about camera basics and optics. Colab and Jupyter are great but I mostly try to deploy computer vision applications on edge devices (NVIDIA Jetson, OAK-D, Google Coral dev board micro). I am pushing the bounderies of Computer Vision by learning cutting edge skills.</h3>
+<h3>I am passionate about Computer Vision. I love to work on real sensors (Stereo, ToF, LiDAR Point Cloud) which makes me unique when it comes to real world application of Computer Vision. I practice deep Learning, but I have extensive understanding of basic concepts of Computer Vision, specially about camera basics and optics. Colab and Jupyter are great but I mostly try to deploy computer vision applications on edge devices (NVIDIA Jetson, OAK-D, Google Coral dev board micro). I am pushing the bounderies of Computer Vision by learning cutting edge skills.</h3>
 
 - 🔭 I’m currently working on **[3D Perception](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
 
