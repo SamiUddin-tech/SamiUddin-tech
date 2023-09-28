@@ -3,7 +3,7 @@
 
 I am passionate about Computer Vision. I love to work on real sensors (Stereo, ToF, LiDAR Point Cloud) which makes me unique when it comes to real world application of Computer Vision. I practice deep Learning very well and I also have extensive understanding of basic concepts of Computer Vision, specially about camera basics and optics. Colab and Jupyter are great but I mostly deploy computer vision applications on edge devices (NVIDIA Jetson, OAK-D, Google Coral dev board Mini). I am pushing the bounderies of Computer Vision by learning cutting edge skills.
 
-I have worked on Image Classification, Face Recognition, Object Detection and Tracking, Optical Flow, Semantic Segmentation, Depth Estimation, 3D Reconstruction. 
+I have worked on Image Classification, Face Recognition, Object Detection and Tracking, Optical Flow, Semantic Segmentation, Camera Calibration, Stereo Vision & Depth Estimation, 3D Reconstruction. 
 
 - 🔭 I’m currently working on **[3D Perception](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
 
