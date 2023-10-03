@@ -5,7 +5,7 @@ I enjoy working on computer vision projects, especially those involving real sen
 
 I have experience in classifying the images, Face Recognition, Object Detection and Tracking, Optical Flow, Semantic Segmentation, Camera Calibration, Stereo Vision & Depth Estimation, 3D Reconstruction. 
 
-- 🔭 I’m currently working on **[3D Perception](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
+- 🔭 I’m currently working on **[Safe Rail - Track Monitoring System](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
 
 - 🌱 I’m currently learning **[Cutting Edge Skills](https://www.thinkautonomous.ai/)**
 
@@ -29,7 +29,7 @@ I have experience in classifying the images, Face Recognition, Object Detection 
 
 ![3](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/a2d79e30-99de-460d-b5ad-609a7849fa9b)
 
-<h2 align="center">Edge Computer Vision Stack</h2>
+<h2 align="center">Edge AI Tools</h2>
 
 ![4](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/df15b9e3-5612-4de1-b22d-d5c84c09b7f8)
 
@@ -45,14 +45,9 @@ I have experience in classifying the images, Face Recognition, Object Detection 
 
 ![8](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/b7531ebb-d3cf-4e91-8743-1d770339be5a)
 
-<h2 align="center">Robotics Software Stack</h2>
-
-![7](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/3c843ff9-8d6d-4b38-84b9-84b8a091612d)
-
 <h2 align="center">What excites me the most when it comes to Computer Vision?</h2>
 
 
-![2023-gartner-emerging-technologies-and-trends-impa](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/e71555db-4525-495c-b40b-aaff2b2ba1f4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
