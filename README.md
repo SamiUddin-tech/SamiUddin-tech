@@ -3,7 +3,7 @@
 
 <h3>I enjoy working on computer vision projects, especially those involving real sensors like stereo cameras, time-of-flight (ToF), LiDAR, and point clouds. This hands-on experience sets me apart in applying computer vision to real-world situations. I'm proficient in deep learning and have a strong grasp of fundamental computer vision concepts, especially related to cameras and optics.</h3>h3>
 
-While platforms like Colab and Jupyter are valuable, I primarily deploy my computer vision applications on edge devices like NVIDIA Jetson, OAK-D, and Google Coral dev board Mini. 
+While platforms like Colab and Jupyter are valuable, I primarily deploy my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini. 
 
 I'm constantly expanding my skills to explore the latest advancements in computer vision and push the boundaries of what's possible in the field.
 
