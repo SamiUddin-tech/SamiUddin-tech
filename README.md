@@ -12,6 +12,14 @@ I have experience in classifying the images, Face Recognition, Object Detection 
 ![imgonline-com-ua-twotoone-A3SQXJ2VdJtp](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/2bfed2d7-f6ae-42a2-bbda-31d33899499f)
 The Edge Computer Vision, While platforms like Colab and Jupyter are valuable, I primarily deploy my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini.
 
+
+<b><h2 align="center">Biggest Computer Vision Achievement</h2></b>
+
+![nxetrgga_1684257465028-page-0](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/73d67d28-347d-4f49-ab1a-e232c0f194ce)
+Watch the Project [*Passenger Safety Measure using Stereo Vision and Object Detection*](https://www.youtube.com/watch?v=9YL2O-KXWSw&t=116s)
+
+
+
 - 🔭 I’m currently working on **[Safe Rail - Track Monitoring System](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
 
 - 🌱 I’m currently learning **[Cutting Edge Skills](https://www.thinkautonomous.ai/)**
