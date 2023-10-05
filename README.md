@@ -19,7 +19,7 @@ I have experience in classifying the images, Face Recognition, Object Detection 
 
 - 💬 Ask me about **3D Perception**
 
-- 📫 How to reach me **muhammadsamiuddinrafayf18@nutech.edu.pk**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/sami-uddin-a6b40b20a/)**
 
 <h2 align="center">Programming Languages</h2>
 
@@ -37,7 +37,7 @@ I have experience in classifying the images, Face Recognition, Object Detection 
 
 ![4](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/df15b9e3-5612-4de1-b22d-d5c84c09b7f8)
 
-<h2 align="center">3D Perception Stack</h2>
+<h2 align="center">State-of-the-Art 3D Framework</h2>
 
 ![5](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/315ae248-1f96-43bc-8004-e1dbeef6b738)
 
