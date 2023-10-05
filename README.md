@@ -11,7 +11,7 @@ I have experience in classifying the images, Face Recognition, Object Detection 
 The Edge Computer Vision, While platforms like Colab and Jupyter are valuable, I primarily deploy my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini.
 
 
-<b><h2 align="center">Biggest Computer Vision Achievement</h2></b>
+<b><h2 align="center">My Biggest Computer Vision Achievement</h2></b>
 
 ![imgonline-com-ua-twotoone-GE2qVhe4QyTET8Nv](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/68796ed1-1aeb-4701-aff6-32293093d080)
 Watch the Project [*Passenger Safety Measure using Stereo Vision and Object Detection*](https://www.youtube.com/watch?v=9YL2O-KXWSw&t=116s)
