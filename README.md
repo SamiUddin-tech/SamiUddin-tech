@@ -33,7 +33,7 @@ I have experience in classifying the images, Face Recognition, Object Detection 
 
 ![3](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/a2d79e30-99de-460d-b5ad-609a7849fa9b)
 
-<h2 align="center">Edge AI Tools</h2>
+<h2 align="center">AI Optimization Tools</h2>
 
 ![4](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/df15b9e3-5612-4de1-b22d-d5c84c09b7f8)
 
