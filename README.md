@@ -32,7 +32,7 @@ The Edge Computer Vision, While platforms like Colab and Jupyter are valuable, I
 
 <h2 align="center">Programming Stack</h2>
 
-![1](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/21a8fe22-e185-4bad-a418-a7c0cd4d0da7)
+<h2 align="center">![1](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/21a8fe22-e185-4bad-a418-a7c0cd4d0da7)</h2>
 
 <h2 align="center">DevOpps</h2>
 
