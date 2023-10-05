@@ -7,6 +7,12 @@ I'm constantly expanding my skills to explore the latest advancements in compute
 
 I have experience in classifying the images, Face Recognition, Object Detection and Tracking, Optical Flow, Semantic Segmentation, Camera Calibration, Stereo Vision & Depth Estimation, 3D Reconstruction. 
 
+<h2 align="center">What excites me the most when it comes to Computer Vision?</h2>
+
+![imgonline-com-ua-twotoone-p8u1iPm0oT7ADy7](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/0dc77228-aea6-43e9-b316-dd721f90559c)
+
+<h3 align="center">The Edge Computer Vision, While platforms like Colab and Jupyter are valuable, I primarily deploy my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini.</h3>
+
 - 🔭 I’m currently working on **[Safe Rail - Track Monitoring System](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
 
 - 🌱 I’m currently learning **[Cutting Edge Skills](https://www.thinkautonomous.ai/)**
@@ -46,12 +52,6 @@ I have experience in classifying the images, Face Recognition, Object Detection 
 <h2 align="center">Luxonis Robotic Vision Stack</h2>
 
 ![8](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/b7531ebb-d3cf-4e91-8743-1d770339be5a)
-
-<h2 align="center">What excites me the most when it comes to Computer Vision?</h2>
-
-![imgonline-com-ua-twotoone-p8u1iPm0oT7ADy7](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/0dc77228-aea6-43e9-b316-dd721f90559c)
-
-<h3 align="center">While platforms like Colab and Jupyter are valuable, I primarily deploy my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini.</h3>h3>
 
 
 <h3 align="left">Connect with me:</h3>
