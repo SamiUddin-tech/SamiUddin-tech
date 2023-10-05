@@ -15,7 +15,7 @@ The Edge Computer Vision, While platforms like Colab and Jupyter are valuable, I
 
 <b><h2 align="center">Biggest Computer Vision Achievement</h2></b>
 
-![nxetrgga_1684257465028-page-0](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/73d67d28-347d-4f49-ab1a-e232c0f194ce)
+![imgonline-com-ua-twotoone-iDL6ek4w0q2i](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/c94063d7-1c86-44af-aeb1-f70830a3fd6b)
 Watch the Project [*Passenger Safety Measure using Stereo Vision and Object Detection*](https://www.youtube.com/watch?v=9YL2O-KXWSw&t=116s)
 
 
