@@ -30,11 +30,11 @@ The Edge Computer Vision, While platforms like Colab and Jupyter are valuable, I
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/sami-uddin-a6b40b20a/)**
 
-<h2 align="center">Programming Languages</h2>
+<h2 align="center">Programming Stack</h2>
 
 ![1](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/21a8fe22-e185-4bad-a418-a7c0cd4d0da7)
 
-<h2 align="center">Development Tools</h2>
+<h2 align="center">DevOpps</h2>
 
 ![2](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/6320e1d8-44c4-42df-a0e7-03ff830c5bf3)
 
@@ -46,7 +46,7 @@ The Edge Computer Vision, While platforms like Colab and Jupyter are valuable, I
 
 ![4](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/df15b9e3-5612-4de1-b22d-d5c84c09b7f8)
 
-<h2 align="center">State-of-the-Art 3D Framework</h2>
+<h2 align="center">State-of-the-Art 3D Frameworks</h2>
 
 ![5](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/315ae248-1f96-43bc-8004-e1dbeef6b738)
 
