@@ -3,8 +3,6 @@
 
 <b>I enjoy working on computer vision projects, especially those involving real sensors like stereo cameras, time-of-flight (ToF), LiDAR, and point clouds. This hands-on experience sets me apart in applying computer vision to real-world situations. I'm proficient in deep learning and have a strong grasp of fundamental computer vision concepts, especially related to cameras and optics.</b>
 
-While platforms like Colab and Jupyter are valuable, I primarily deploy my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini. 
-
 I'm constantly expanding my skills to explore the latest advancements in computer vision and push the boundaries of what's possible in the field.
 
 I have experience in classifying the images, Face Recognition, Object Detection and Tracking, Optical Flow, Semantic Segmentation, Camera Calibration, Stereo Vision & Depth Estimation, 3D Reconstruction. 
@@ -50,6 +48,10 @@ I have experience in classifying the images, Face Recognition, Object Detection 
 ![8](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/b7531ebb-d3cf-4e91-8743-1d770339be5a)
 
 <h2 align="center">What excites me the most when it comes to Computer Vision?</h2>
+
+![imgonline-com-ua-twotoone-p8u1iPm0oT7ADy7](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/0dc77228-aea6-43e9-b316-dd721f90559c)
+
+<h3 align="center">While platforms like Colab and Jupyter are valuable, I primarily deploy my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini.</h3>h3>
 
 
 <h3 align="left">Connect with me:</h3>
