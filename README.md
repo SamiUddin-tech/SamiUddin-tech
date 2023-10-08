@@ -16,6 +16,7 @@ The Edge Computer Vision, I love to deploying my computer vision applications on
 ![imgonline-com-ua-twotoone-GE2qVhe4QyTET8Nv](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/68796ed1-1aeb-4701-aff6-32293093d080)
 **Watch My OAK2021 Project:** [*Passenger Safety Measure using Stereo Vision and Object Detection*](https://www.youtube.com/watch?v=9YL2O-KXWSw&t=116s)
 
+<b><h2 align="center">Depth Perception is my Core</h2></b>
 
 
 - 🔭 I’m currently working on **[Safe Rail - Track Monitoring System](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
