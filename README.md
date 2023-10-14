@@ -31,30 +31,6 @@ The Edge Computer Vision, I love to deploying my computer vision applications on
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/sami-uddin-a6b40b20a/)**
 
-<h2 align="center">Programming Stack</h2>
-
-![1](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/21a8fe22-e185-4bad-a418-a7c0cd4d0da7)
-
-<h2 align="center">DevOpps</h2>
-
-![2](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/6320e1d8-44c4-42df-a0e7-03ff830c5bf3)
-
-<h2 align="center">Computer Vision Stack</h2>
-
-![3](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/a2d79e30-99de-460d-b5ad-609a7849fa9b)
-
-<h2 align="center">AI Optimization Tools</h2>
-
-![4](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/df15b9e3-5612-4de1-b22d-d5c84c09b7f8)
-
-<h2 align="center">State-of-the-Art 3D Frameworks</h2>
-
-![5](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/315ae248-1f96-43bc-8004-e1dbeef6b738)
-
-<h2 align="center">Annotation Tools</h2>
-
-![6](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/678b0ea4-b534-4e42-a61b-666f7667059f)
-
 <h2 align="center">Luxonis Robotic Vision Stack</h2>
 
 ![8](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/b7531ebb-d3cf-4e91-8743-1d770339be5a)
