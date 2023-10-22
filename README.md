@@ -19,9 +19,9 @@ The Edge Computer Vision, I love to deploying my computer vision applications on
 <b><h2 align="center">Depth Perception is my Core</h2></b>
 
 
-- 🔭 I’m currently working on **[Safe Rail - Track Monitoring System](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
+- 🔭 I’m currently working on **[Safe Rail](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
 
-- 🌱 I’m currently learning **[Cutting Edge Skills](https://www.thinkautonomous.ai/)**
+- 🌱 I’m currently learning **[Cutting Edge](https://www.thinkautonomous.ai/)**
 
 - 👯 I’m looking to collaborate on **[Video Analysis](https://github.com/SamiUddin-tech/Video-Analysis)**
 
