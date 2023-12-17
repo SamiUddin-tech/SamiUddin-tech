@@ -9,13 +9,10 @@ I'm passionate about computer vision, particularly in using real sensors like st
 The Edge Computer Vision, I love to deploying my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini.
 
 
-<b><h2 align="center">My Biggest Computer Vision Achievement</h2></b>
+<b><h3 align="center">My Pioneer Achievement in the field of Computer Vision</h3></b>
 
 ![imgonline-com-ua-twotoone-GE2qVhe4QyTET8Nv](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/68796ed1-1aeb-4701-aff6-32293093d080)
 **Watch My OAK2021 Project:** [*Passenger Safety Measure using Stereo Vision and Object Detection*](https://www.youtube.com/watch?v=9YL2O-KXWSw&t=116s)
-
-<b><h2 align="center">Depth Perception is my Core</h2></b>
-
 
 - 🔭 I’m currently working on **[Safe Rail](https://github.com/SamiUddin-tech/LiDAR-Point-Cloud)**
 
