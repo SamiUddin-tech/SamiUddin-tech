@@ -7,7 +7,6 @@ I have experience in classifying the images, Face Recognition, Object Detection 
 
 <h2 align="center">What excites me the most when it comes to Computer Vision?</h2>
 
-![imgonline-com-ua-twotoone-A3SQXJ2VdJtp](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/2bfed2d7-f6ae-42a2-bbda-31d33899499f)
 The Edge Computer Vision, I love to deploying my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini.
 
 
