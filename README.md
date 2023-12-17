@@ -4,7 +4,7 @@
 
 I'm passionate about computer vision, particularly in using real sensors like stereo cameras, ToF, LiDAR, and point clouds. My hands-on approach is key in applying these technologies to real-world scenarios. Skilled in deep learning, I have a solid understanding of core computer vision concepts, especially in camera and optics. I'm dedicated to learning and applying the latest innovations in the field. My expertise includes image classification, face recognition, object detection and tracking, optical flow, semantic segmentation, camera calibration, stereo vision, depth estimation, and 3D reconstruction.
 
-<h2 align="center">What excites me the most when it comes to Computer Vision?</h2>
+<h3 align="center">What excites me the most when it comes to Computer Vision?</h3>
 
 The Edge Computer Vision, I love to deploying my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini.
 
