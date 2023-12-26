@@ -10,8 +10,7 @@ I specialize in computer vision and real sensor applications, with expertise in 
 
 <h3 align="center">What's more exciting about Computer Vision?</h3>
 
-The Edge Computer Vision, I love to deploying my computer vision applications on edge devices like Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev board Mini.
-
+I am passionate about edge computing for computer vision, focusing on deploying applications to edge devices such as Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev boards.
 
 <b><h3 align="center">Pioneer Achievement in Computer Vision</h3></b>
 
