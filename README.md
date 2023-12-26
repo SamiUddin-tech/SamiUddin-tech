@@ -2,7 +2,7 @@
 
 <b><h2 align="center">![image](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/7eeaf8f6-67d6-4745-94da-15861727b371)</h2></b>
 
-<b><h2 align="center">@ Aerial Robotics Lab, SINES, NUST</h2></b>
+<b><h2 align="center">@ Aerial Robotics Lab, SINES, NUST.</h2></b>
 
 <b><h2 align="center">![image](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/06d9c5a7-0999-49bc-8171-6d921224cd28)</h2></b>
 
