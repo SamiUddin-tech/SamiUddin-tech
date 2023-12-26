@@ -10,7 +10,7 @@ I specialize in computer vision and real sensor applications, with expertise in 
 
 <h3 align="center">What's more exciting about Computer Vision?</h3>
 
-I am passionate about edge computing for computer vision, focusing on deploying applications to edge devices such as Raspberry Pi, NVIDIA Jetson, OAK-D, and Google Coral dev boards.
+I am passionate about edge computing for computer vision, focusing on deploying applications to edge devices such as [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/), [NVIDIA Jetson Embedded AI Computing](https://developer.nvidia.com/embedded-computing), [LUXONIS ROBOTIC VISION Spatial and Embedded AI - OAK-D](https://www.luxonis.com/), [Intel Movidius Myriad-X Edge AI NEURAL COMPUTE STICK 2](https://www.intel.com/content/www/us/en/developer/articles/tool/neural-compute-stick.html) and [Google Coral Edge AI](https://coral.ai/).
 
 <b><h3 align="center">Pioneer Achievement in Computer Vision</h3></b>
 
