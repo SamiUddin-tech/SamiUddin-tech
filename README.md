@@ -1,4 +1,4 @@
-![image](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/c12880df-ee35-44cd-832c-9715c2b30deb)<b><h1 align="center">Hi 👋, I'm Sami Uddin</h1></b>
+<h1><b>Hi 👋, I'm Sami Uddin</h1></b>
 <b><h2 align="center">![image](https://github.com/SamiUddin-tech/Techical-Workshops/assets/81253183/bebf67be-8d74-49dc-a5b5-f56f843ea43f)</h2></b>
 <b><h2 align="center">
 ![image](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/06d9c5a7-0999-49bc-8171-6d921224cd28)</h2></b>
