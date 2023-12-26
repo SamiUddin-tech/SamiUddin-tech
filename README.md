@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi 👋, I'm Sami Uddin</h1></b>
+
 <b><h2 align="center">![image](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/7eeaf8f6-67d6-4745-94da-15861727b371)</h2></b>
+  
 <b><h2 align="center">![image](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/06d9c5a7-0999-49bc-8171-6d921224cd28)</h2></b>
 
 I'm passionate about computer vision, particularly in using real sensors like stereo cameras, ToF, LiDAR, and point clouds. My hands-on approach is key in applying these technologies to real-world scenarios. Skilled in deep learning, I have a solid understanding of core computer vision concepts, especially in camera and optics. I'm dedicated to learning and applying the latest innovations in the field. My expertise includes image classification, face recognition, object detection and tracking, optical flow, semantic segmentation, camera calibration, stereo vision, depth estimation, and 3D reconstruction.
