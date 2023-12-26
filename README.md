@@ -1,4 +1,4 @@
-<h1><b>Hi 👋, I'm Sami Uddin</h1></b>
+<h1 align="center"><b>Hi 👋, I'm Sami Uddin</h1></b>
   
 <b><h2 align="center">![image](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/06d9c5a7-0999-49bc-8171-6d921224cd28)</h2></b>
 
