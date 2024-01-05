@@ -12,7 +12,7 @@ I specialize in computer vision and real sensor applications, with expertise in 
 
 I am passionate about edge computing for computer vision, focusing on deploying applications to edge devices such as [Raspberry Pi](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/), [NVIDIA Jetson Embedded AI Computing](https://developer.nvidia.com/embedded-computing), [LUXONIS ROBOTIC VISION Spatial and Embedded AI - OAK-D](https://www.luxonis.com/), [Intel Movidius Myriad-X Edge AI NEURAL COMPUTE STICK 2](https://www.intel.com/content/www/us/en/developer/articles/tool/neural-compute-stick.html) and [Google Coral Edge AI](https://coral.ai/).
 
-<b><h3 align="center">Pioneer Achievement in Computer Vision</h3></b>
+<b><h3 align="center">Pioneering Achievement in Computer Vision</h3></b>
 
 ![imgonline-com-ua-twotoone-GE2qVhe4QyTET8Nv](https://github.com/SamiUddin-tech/SamiUddin-tech/assets/81253183/68796ed1-1aeb-4701-aff6-32293093d080)
 **Watch My OAK2021 Project:** [*Passenger Safety Measure using Stereo Vision and Object Detection*](https://www.youtube.com/watch?v=9YL2O-KXWSw&t=116s)
